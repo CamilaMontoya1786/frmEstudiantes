@@ -1,0 +1,13 @@
+C:\Users\camim\OneDrive\Escritorio\UNAULA\3 SEMESTRE\Proyectos visual\frmEstudiantes\bin\Debug\FrmEstudiantes.exe.config
+C:\Users\camim\OneDrive\Escritorio\UNAULA\3 SEMESTRE\Proyectos visual\frmEstudiantes\bin\Debug\FrmEstudiantes.exe
+C:\Users\camim\OneDrive\Escritorio\UNAULA\3 SEMESTRE\Proyectos visual\frmEstudiantes\bin\Debug\FrmEstudiantes.pdb
+C:\Users\camim\OneDrive\Escritorio\UNAULA\3 SEMESTRE\Proyectos visual\frmEstudiantes\obj\Debug\frmEstudiantes.csproj.AssemblyReference.cache
+C:\Users\camim\OneDrive\Escritorio\UNAULA\3 SEMESTRE\Proyectos visual\frmEstudiantes\obj\Debug\frmEstudiantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\camim\OneDrive\Escritorio\UNAULA\3 SEMESTRE\Proyectos visual\frmEstudiantes\obj\Debug\FrmEstudiantes.frmDatosAcademicos.resources
+C:\Users\camim\OneDrive\Escritorio\UNAULA\3 SEMESTRE\Proyectos visual\frmEstudiantes\obj\Debug\FrmEstudiantes.frmMenuPrincipal.resources
+C:\Users\camim\OneDrive\Escritorio\UNAULA\3 SEMESTRE\Proyectos visual\frmEstudiantes\obj\Debug\FrmEstudiantes.frmDatosEstudiantes.resources
+C:\Users\camim\OneDrive\Escritorio\UNAULA\3 SEMESTRE\Proyectos visual\frmEstudiantes\obj\Debug\FrmEstudiantes.Properties.Resources.resources
+C:\Users\camim\OneDrive\Escritorio\UNAULA\3 SEMESTRE\Proyectos visual\frmEstudiantes\obj\Debug\frmEstudiantes.csproj.GenerateResource.cache
+C:\Users\camim\OneDrive\Escritorio\UNAULA\3 SEMESTRE\Proyectos visual\frmEstudiantes\obj\Debug\frmEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\camim\OneDrive\Escritorio\UNAULA\3 SEMESTRE\Proyectos visual\frmEstudiantes\obj\Debug\FrmEstudiantes.exe
+C:\Users\camim\OneDrive\Escritorio\UNAULA\3 SEMESTRE\Proyectos visual\frmEstudiantes\obj\Debug\FrmEstudiantes.pdb
